@@ -1,11 +1,13 @@
 # ICT1008 Group 2-1
 
 Welcome to our project! 
-To run our project, we reccomend running it on PyCharm, and IDE for python: 
+To run our project, we reccomend running it on PyCharm, an IDE for python: 
 https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
 
 
 If not, we reccommend installing some of the Packages we use for our project:
+
+Python 3.x: https://www.python.org/downloads/
 
 Pandas:     https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 
