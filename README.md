@@ -29,6 +29,18 @@ Project Intepreter (bottom right) > Intepreter settings > select Python 3.x unde
 
 - flask
 
+To run the program:
+run main.py
+Under the console, click on local host link to open the User Interface on your web browser.
+Example: Running on http://127.0.0.1:500/
+Click on the above link to run the application.
 
-Then, run main.py
-Under the console, click on 172.0.0.1 link to open the User Interface on your web browser.
+
+
+Contributed By: 
+ICT 1008 Group 2-1 
+Ong Zhen Sen 1902651
+Jackson Wong Hao Jun 1902667
+Mabel Lim Pei Xuan 1902192
+Dylan Yong Kenn Litt 1902116
+Lee Shi Jia 1902680
